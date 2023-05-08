@@ -1,6 +1,6 @@
 # zkMe DID Resolver
 
-The zkME resolver library is used for resolving DID’s in zkMe Method Space. The module is supposed to be used as an integration to zkMe library.
+The zkMe resolver library is used for resolving DID’s in zkMe Method Space. The module is supposed to be used as an integration to zkMe library.
 
 ## Install
 
